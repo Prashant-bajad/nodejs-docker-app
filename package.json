@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-docker-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for CI/CD demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["nodejs", "docker", "cicd"],
+  "author": "Hatim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
